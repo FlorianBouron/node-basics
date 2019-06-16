@@ -1,0 +1,9 @@
+# dependencies
+/node_modules
+
+#data
+/data
+
+#misc 
+/.vscode
+yarn.lock
